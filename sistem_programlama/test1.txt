@@ -1,0 +1,4 @@
+Bu test1 dosyasıdır.
+Birinci satır.
+İkinci satır.
+Üçüncü satır.
